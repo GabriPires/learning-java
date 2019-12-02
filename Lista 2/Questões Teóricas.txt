@@ -1,0 +1,9 @@
+7 
+a - string
+b - byte
+c - double
+d - boolean
+e - short
+f - float
+g - char
+h - long
